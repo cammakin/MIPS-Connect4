@@ -1,4 +1,6 @@
-# Welcome to my CMPEN 351 Final Project! MIPS Connect 4 Game
+# MIPS Connect 4 Game!
+
+Welcome to my CMPEN 351 Final Project
 
 Connect 4 written in Assembly for the MIPS ISA for RISC (Microprocessor without Interlocked Pipelined Stages, instruction set architecture, reduced instruction set computer)
 
